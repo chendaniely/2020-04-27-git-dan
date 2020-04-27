@@ -1,4 +1,4 @@
-# 2020-04-27-git
+# Git Lesson
 
 - init: create a git repository in current directory
     - you should only do this once in a repository (i.e., no nested git repos)
