@@ -10,6 +10,9 @@
     - `log --oneline`: simple oneline log view
 - `diff`: look at differences between current state and what git knows
 - `checkout`: moving our head
+    - `checkout <HASH> <file>`: restores file from the <hash>
+    - `checkout <HASH>`: moves HEAD to that location
+        - `git checkout master`: go back to our original place
 - `HEAD`: place we're looking at right now on our computer
 
 - remote: a place where the git repo is stored, e.g., GitHub
